@@ -1,0 +1,32 @@
+# Datasets - too large for GitHub and redistributable only from source
+data/*.csv
+data/*.xls
+data/*.xlsx
+*.zip
+creditcard.csv
+credit_default_clean.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX build artefacts (if you keep the report here)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
