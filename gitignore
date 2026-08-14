@@ -21,12 +21,4 @@ env/
 .DS_Store
 Thumbs.db
 
-# LaTeX build artefacts (if you keep the report here)
-*.aux
-*.bbl
-*.blg
-*.log
-*.out
-*.synctex.gz
-*.fdb_latexmk
-*.fls
+
