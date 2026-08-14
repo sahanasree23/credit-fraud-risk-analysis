@@ -1,0 +1,5 @@
+dataset,model,accuracy,precision,recall,f1,roc_auc,pr_auc,no_skill
+Fraud,Logistic Regression,0.9761,0.0607,0.8862,0.1136,0.9727,0.7036,0.0017
+Fraud,Gradient Boosting,0.9961,0.2884,0.8699,0.4332,0.971,0.7217,0.0017
+Default,Logistic Regression,0.6796,0.3688,0.6305,0.4654,0.7162,0.4998,0.2212
+Default,Gradient Boosting,0.7525,0.4566,0.6251,0.5277,0.7776,0.5526,0.2212
