@@ -65,7 +65,6 @@ Runtime is roughly 8 minutes, almost all in the gradient boosting step.
 .
 ├── credit_fraud_risk_analysis.ipynb   # main analysis
 ├── data/                              # datasets (not tracked)
-├── figures/                           # generated plots
 └── README.md
 ```
 
